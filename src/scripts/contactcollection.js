@@ -30,7 +30,8 @@ const API = {
       .then(API.getContacts)
       .then( contact => {
         contactDisplay.innerHTML = "";
-        RENDER.insertComponent(contact);
+        RENDER.
+        RENDER.insertForm(contact);
       });
   }
 };
