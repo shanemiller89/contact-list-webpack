@@ -1,0 +1,38 @@
+{
+  "contacts":[
+    {
+      "name": "Shane Miller",
+      "email": "test@gmail.com",
+      "phone": "555-555-5555",
+      "address": "123 Main St."
+    },
+    {
+      "name": "Christopher Balma",
+      "email": "test2@gmail.com",
+      "phone": "555-555-5556",
+      "address": "1234 Main St."
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
